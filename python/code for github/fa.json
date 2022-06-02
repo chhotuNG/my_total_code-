@@ -1,0 +1,20 @@
+{
+      "e1": {
+            "name": "prem",
+            "post": "prog",
+            "age": "24",
+            "sal": "2400"
+      },
+      "e2": {
+            "name": "giri",
+            "post": "try",
+            "age": "34",
+            "sal": "3245"
+      },
+      "e3": {
+            "name": "raj",
+            "post": "mat",
+            "age": "44",
+            "sal": "2334"
+      }
+}

@@ -1,0 +1,14 @@
+{
+    "cksurya@gmail.com": {
+        "name": "ck",
+        "roll_no": "1",
+        "age": "17",
+        "gender": "M"
+    },
+    "ck@gmail.com": {
+        "name": "c",
+        "roll_no": "2",
+        "age": "17",
+        "gender": "M"
+    }
+}
